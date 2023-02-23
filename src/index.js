@@ -1,4 +1,4 @@
 // Import stylesheets
-import '/style.css';
+import './style.scss';
 
 document.write('hello');
