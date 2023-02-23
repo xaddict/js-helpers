@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "stackblitz": {
-    "startCommand": "npm run build && npm run preview"
+    "startCommand": "npm run dev"
   },
   "scripts": {
     "dev": "vite",
